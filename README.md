@@ -1,4 +1,4 @@
 # ARDrawingApp
 
 Playing with ARKit
-![](ExpandableList.gif)
+![](ARExample1.mov)
